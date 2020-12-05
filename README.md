@@ -1,2 +1,2 @@
 # Shopping-E-commerce-Site
-Shopping E-commerce Website Using bootstrap 4
+Shopping E-commerce Website Using Html,Css and Jquery
